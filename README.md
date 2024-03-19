@@ -2,6 +2,8 @@
 Este é um modelo de API de classificação de cursos, que retorna as probabilidades para cada classe da taxonomia de Bloom.
 
 ## Instalação
+Inicialmente deverá ser feito download dos pesos do modelo treinado. Os pesos do modelo deverão ser baixados através do seguinte link: [Pesos do Modelo](https://drive.google.com/file/d/1JJ90DE0XmmZ0-qTlaxna1jVksG2o0NUW/view?usp=drive_link). Após o download coloque o arquivo na pasta raiz do projeto.
+
 Antes de usar a API, você precisará instalar as dependências. Para isso, você pode usar o seguinte comando no terminal:
 
 ```bash
